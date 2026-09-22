@@ -1,17 +1,31 @@
 # Agentic That - To-Do
-
 > Placeholder to-do list - replace with real tasks.
 
-## Now
+## Contact Manager
+* Create  Contact Master Table with Org as the partition
+* Group  Management
+* Pipeline Based
+    * High Speed Storage
 
-- [ ] _TODO: define scope_
-- [ ] _TODO: set up repo/project structure_
+## Messenger System
+* Home Page
+    * WhatsApp
+    * Telegram
+    * Discord
+    * Meta Messenger
+* Pipelines
+    * Group Management (Across Messenger Systems)
+    * Send Message to a Group
+    
 
-## Next
-
-- [ ] _TODO: design architecture_
-- [ ] _TODO: identify key risks_
-
-## Later
-
-- [ ] _TODO: plan release/rollout_
+## CI CD Process
+* Venkata Understanding
+## Code Testing
+* DB
+* Web
+* Desktop - Companion
+* PWA - Companion
+----    
+* Vulnarabiities
+* Performance Issues (CPU/Memory)
+* Network Issues
